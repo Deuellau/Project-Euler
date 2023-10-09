@@ -1,4 +1,5 @@
 def Problem003():
+    
     num = 600851475143
     div = 2
     largest = 0
@@ -14,9 +15,7 @@ def Problem003():
             
     return largest
         
-    
-    
-
-print(Problem003()) # 4613732
+        
+print(Problem003()) # 6857
     
     
